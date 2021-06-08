@@ -25,7 +25,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.crossplane.io"
+	Group   = "crossplane.dfds.cloud"
 	Version = "v1alpha1"
 )
 

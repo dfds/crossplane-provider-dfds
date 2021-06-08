@@ -17,7 +17,7 @@ For dfdsdk\provider-dfds:
 ```
 cd package
 kubectl crossplane build provider
-kubectl crossplane push provider dfdsd/provider-dfds:latest
+kubectl crossplane push provider dfdsdk/provider-dfds:latest
 ```
 
 To install in cluster:
