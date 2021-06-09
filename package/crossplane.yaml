@@ -1,0 +1,7 @@
+apiVersion: meta.pkg.crossplane.io/v1alpha1
+kind: Provider
+metadata:
+  name: provider-dfds
+spec:
+  controller:
+    image: dfdsdk/provider-dfds-controller:latest

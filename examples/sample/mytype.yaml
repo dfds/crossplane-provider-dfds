@@ -1,0 +1,9 @@
+apiVersion: crossplane.dfds.cloud/v1alpha1
+kind: MyType
+metadata:
+  name: example
+spec:
+  forProvider:
+    configurableField: test
+  providerConfigRef:
+    name: example
