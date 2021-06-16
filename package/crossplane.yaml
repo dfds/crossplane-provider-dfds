@@ -4,4 +4,4 @@ metadata:
   name: provider-dfds
 spec:
   controller:
-    image: dfdsdk/provider-dfds-controller:latest
+    image: dfdsdk/provider-dfds-controller:v0.0.1-alpha.0
