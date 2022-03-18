@@ -1,3 +1,5 @@
+# :warning: Repository not maintained :warning:
+
 # crossplane-provider-dfds
 DFDS Crossplane Provider
 
